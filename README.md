@@ -1,7 +1,6 @@
-# Audaces Protocol UI
+**Atlas Perps Dex:** One-click for Open
 
-An implementation of a UI for the [Audaces protocol](https://github.com/AudacesFoundation/audaces-perps).
-
+[![Perps Dex]](https://perps.atlasdex.finance/)
 ## Starting local environment
 
 ```
